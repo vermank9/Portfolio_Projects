@@ -12,3 +12,19 @@ Thus it was a Multiclass and multilabel problem.
 
 - Implemented a multi-label classifier using the training data. The classifier tagged all the possible domains (food, support etc) for each query using Decision Tree, Logistic Regression and Random forest algorithms.
 - Achieved a label accuracy of 94% and subset accuracy of 74%.
+
+## Predicting survival of passengers on the Titanic dataset
+[Link to Titanic Project](https://github.com/vermank9/Titanic_Dataset_Classification)
+
+In this project I investigated a dataset containing information about Titanic passengers by using NumPy and Pandas, which are two popular Python packages used for manipulating datasets.
+The goal of this project was to get acquainted with said tools, learn about the different data structures (NumPy Arrays, Series and DataFrames) they offer,and practice the key steps on the whole data analysis process.
+
+- I used Decision tree & Random forest algorithms to predict the percentage of passengers who survived.
+- I am currently at 1829th rank for the given competition on Kaggle with an accuracy score of 79.42%.
+
+## Predicting Boston Housing Prices using Linear Regression
+[Link to Boston House Price Prediction Project](https://github.com/vermank9/Boston_Housing_Regression)
+
+In this project I investigated the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value. This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
+
+- Implemented the model using Linear, Ridge and Lasso Regression & achieved a root mean square error of 4.55.
